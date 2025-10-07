@@ -44,11 +44,11 @@ The notebook demonstrates a complete analysis by tackling several key tasks:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/k-iswar/Project-Iris.git](https://github.com/k-iswar/Project-Iris.git)
     ```
 2.  **Navigate to the project directory**:
     ```bash
-    cd your-repository-name
+    cd Project-Iris
     ```
 3.  **Install the required dependencies**:
     ```bash
@@ -58,4 +58,4 @@ The notebook demonstrates a complete analysis by tackling several key tasks:
     ```bash
     jupyter notebook
     ```
-5.  Open the `made to iris.ipynb` file and run the cells to see the analysis.
+5.  Open the `iris.ipynb` file and run the cells to see the analysis.
