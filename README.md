@@ -1,6 +1,6 @@
-# 💐 Made to Iris: An Analysis of the Classic Dataset
+# 💐 Iris: An Analysis of the Classic Dataset
 
-This repository features `made to iris.ipynb`, a Jupyter Notebook crafted to provide a comprehensive walkthrough of the classic Iris flower dataset. This project covers the entire data analysis workflow, from initial exploration and visualization to building a final predictive model.
+This repository features `iris.ipynb`, a Jupyter Notebook crafted to provide a comprehensive walkthrough of the classic Iris flower dataset. This project covers the entire data analysis workflow, from initial exploration and visualization to building a final predictive model.
 
 It serves as a practical example for anyone looking to understand the fundamentals of data science in Python.
 
